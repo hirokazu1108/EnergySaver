@@ -237,8 +237,8 @@ int LoadSound(void)
             ret = PrintError("not found sound of se file.");
         }
     }
-    Mix_Volume(1, MIX_MAX_VOLUME * 4);
-    Mix_Volume(2, MIX_MAX_VOLUME / 5); // 音量を半分にする
+    Mix_Volume(1, MIX_MAX_VOLUME *5);  //click
+    Mix_Volume(2, MIX_MAX_VOLUME); // bomb,charge
 
     bgm[0] = Mix_LoadMUS("sounds/bgm1.mp3"); // Music型で読み込み
     bgm[1] = Mix_LoadMUS("sounds/bgm2.mp3"); // Music型で読み込み
