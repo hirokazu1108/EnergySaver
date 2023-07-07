@@ -1,6 +1,5 @@
 # EnergySaver
-
-<p  align="center"><img width="521" alt="image" src=""></p>
+<p  align="center"><img width="521" alt="image" src="https://github.com/hirokazu1108/EnergySaver/assets/87222170/5cf50cc3-80ee-4956-9c7a-930c3019a224"></p>
 
 - ### 作品名
    Energy Saver
