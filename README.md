@@ -100,6 +100,11 @@
     </tr>
   </table>
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| Wキー        | 上               | git status    |
+| git diff     | git diff       | git diff      |
+
 - ### 実行方法
    #### 1.zipファイルをダウンロード後,展開する
    
