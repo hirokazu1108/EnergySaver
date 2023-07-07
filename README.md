@@ -103,6 +103,7 @@
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | Wキー        | 上               | git status    |
+              | 上                 |              |
 | git diff     | git diff       | git diff      |
 
 - ### 実行方法
