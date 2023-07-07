@@ -12,7 +12,8 @@
    - [SDL2](https://www.libsdl.org/)
 
 - ### プレイ動画・マニュアル
-   [プレイ動画（Google Driveに移動）]()
+   [プレイ動画（Youtube）](https://www.youtube.com/watch?v=O7UEjkAv2NY&list=PLq43FGDaDfJTbCs2VUPctQjEVikHAY_2U&index=1)
+   [プレイ動画データ（Google Driveに移動）](https://drive.google.com/drive/u/0/folders/1SwU_pk9CbYyyfkR2DmZt1eWglQIDIqkJ)
 
 - ### ゲームコンセプト
    アイテムを駆使してエネルギーをためろ！
