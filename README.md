@@ -60,6 +60,7 @@
       - 無敵床　床の範囲内での爆発を無効にする
 
 - ### 操作方法
+  - キーボードの場合
   <table border="1">
     <tr>
       <th>キー</th>
@@ -92,19 +93,9 @@
      <tr>
       <td colspan=”2″>エンターキー</td>
       <td>（クリスタルの近くで）エネルギーチャージ</td>
-      <td>（クリスタルの近くで）エネルギーチャージ</td>
-    </tr>
-    <tr>
-      <td>テンキー7</td>
-      <td>アイテム</td>
+      <td>（ポータルの近くで）ON/OFF切り替え</td>
     </tr>
   </table>
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| Wキー        | 上               | git status    |
-              | 上                 |              |
-| git diff     | git diff       | git diff      |
 
 - ### 実行方法
    #### 1.zipファイルをダウンロード後,展開する
