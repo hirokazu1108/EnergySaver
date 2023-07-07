@@ -22,7 +22,7 @@
 
 
 - ### プレイ時間
-   1～3分
+   3分
 
 
 - ### 使用機器・環境
@@ -144,5 +144,6 @@
    #### ※ファイル権限がない場合は chmod 777 main を入力してください
    
 - ### 使用音源
-   - [Music-Note.jp](https://www.music-note.jp/vocal/index.html)
-   - 
+   - [Springin’ Sound Stock](https://www.springin.org/sound-stock/)
+   - [魔王魂](https://maou.audio/)
+   - [Music-Note.jp](https://www.music-note.jp/)
