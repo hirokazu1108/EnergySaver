@@ -101,8 +101,42 @@
       <td>テンキー4,5,7,8,9</td>
       <td>各アイテムに変更＆アイテムを使用</td>
     </tr>
+  　<tr>
+       <td>EscキーまたはQキー</td>
+       <td>ゲーム終了</td>
+    </tr>
   </table>
 
+  <table border="1">
+    <caption> JoyCon（右/横持ち） </caption>
+    <tr>
+      <th>ボタン</th>
+      <th>説明</th>
+    </tr>
+    <tr>
+      <td>スティック</td>
+      <td>移動</td>
+    </tr>
+    <tr>
+      <td>BボタンまたはXボタン</td>
+      <td>アイテムの変更</td>
+    </tr>
+    <tr>
+      <td>Yボタン</td>
+      <td>アイテムの使用</td>
+    </tr>
+    <tr>
+      <td rowspan="2">スティック押し込み</td>
+      <td>（クリスタルの近くで）エネルギーチャージ</td>
+    </tr>
+    <tr>
+       <td>（ポータルの近くで）ON/OFF切り替え</td>
+    </tr>
+    <tr>
+       <td>ホームボタン</td>
+       <td>ゲーム終了</td>
+    </tr>
+  </table>
 - ### 実行方法
    #### 1.zipファイルをダウンロード後,展開する
    
