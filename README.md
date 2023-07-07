@@ -143,4 +143,6 @@
 
    #### ※ファイル権限がない場合は chmod 777 main を入力してください
    
-
+- ### 使用音源
+   - [Music-Note.jp](https://www.music-note.jp/vocal/index.html)
+   - 
