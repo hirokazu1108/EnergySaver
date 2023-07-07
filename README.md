@@ -98,6 +98,16 @@
     <tr>
        <td>（ポータルの近くで）ON/OFF切り替え</td>
     </tr>
+     <tr>
+        <td rowspan="3">縦(行)の結合</td>
+        <td>データ1</td>
+    </tr>
+    <tr>
+        <td>データ2</td>
+    </tr>
+    <tr>
+        <td>データ3</td>
+    </tr>
   </table>
 
 - ### 実行方法
