@@ -62,6 +62,7 @@
 - ### 操作方法
   - キーボードの場合
   <table border="1">
+    <caption> キーボード </caption>
     <tr>
       <th>キー</th>
       <th>説明</th>
@@ -93,7 +94,9 @@
      <tr>
       <td colspan=”2″>エンターキー</td>
       <td>（クリスタルの近くで）エネルギーチャージ</td>
-      <td>（ポータルの近くで）ON/OFF切り替え</td>
+    </tr>
+    <tr>
+       <td>（ポータルの近くで）ON/OFF切り替え</td>
     </tr>
   </table>
 
