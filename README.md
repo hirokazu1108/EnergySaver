@@ -92,21 +92,11 @@
       <td>アイテムの変更</td>
     </tr>
      <tr>
-      <td colspan=”2″>エンターキー</td>
+      <td rowspan=”2″>エンターキー</td>
       <td>（クリスタルの近くで）エネルギーチャージ</td>
     </tr>
     <tr>
        <td>（ポータルの近くで）ON/OFF切り替え</td>
-    </tr>
-     <tr>
-        <td rowspan="3">縦(行)の結合</td>
-        <td>データ1</td>
-    </tr>
-    <tr>
-        <td>データ2</td>
-    </tr>
-    <tr>
-        <td>データ3</td>
     </tr>
   </table>
 
